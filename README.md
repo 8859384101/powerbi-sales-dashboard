@@ -1,4 +1,4 @@
-Power BI Sales Dashboard
+# Power BI Sales Dashboard
 
 A visually engaging and interactive Sales Dashboard built using Microsoft Power BI. This project provides insights into orders, revenue, and sales performance with a modern design aesthetic.
 
@@ -60,9 +60,6 @@ The dashboard leverages a dark gradient background for a professional and modern
 
 Contributions are welcome! Feel free to fork this repository, submit issues, or create pull requests to enhance the dashboard.
 
-📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 💡 Author
 
